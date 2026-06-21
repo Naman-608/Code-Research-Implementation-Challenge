@@ -68,5 +68,5 @@ Input: [1 1] → 0
 ## ▶️ How To Run
 
 ```bash
-python main.py
+python src\main.py
 ```
