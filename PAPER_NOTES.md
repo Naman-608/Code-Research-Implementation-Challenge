@@ -15,7 +15,7 @@ The network performs a forward pass calculating results at each layer according 
 - Equation 3 - : The term `yⱼ(1 − yⱼ)` is the derivative of sigmoid function and is used during finding error.
 --- 
 ### Datasets used by the Paper:
-1.  Symmetry: 64 possible 8-bit binary input vectors; the weight set was adjusted over 1,425 iterations through all 64 examples
+1.  Symmetry: 64 possible 6-bit binary input vectors; the weight set was adjusted over 1,425 iterations through all 64 examples
 2.  Family trees: 104 possible (person, relationship) triples; the network was trained on 100 of them, with 4 held out to test generalization.
 
 ### Evaluation metrics used by Paper:
